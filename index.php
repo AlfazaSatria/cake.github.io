@@ -10,7 +10,7 @@
 </head>
 
 <body>
-<audio src="css/song.mp3" type="audio/mpeg"></audio>
+
 
     <div class="overflow">
         <div class="scenes">
@@ -91,8 +91,8 @@
                         <span class="intro2">Tapi tidak masalah bagiku</span>
                     </p>
                     <p class="small-text">
-                        <span>Follow my cake</span>
-                        <span>baking journey.</span>
+                        <span>Sini aku ajari masak</span>
+                        <span>Scroll nya pelan pelan aja biar bisa hehe</span>
                     </p>
                 </div>
                 <div class="egg-stop">
@@ -100,10 +100,10 @@
 
                 <div class="text text-bottom fade">
                     <p>
-                        <span>Task #1</span>
+                        <span>Langkah 1</span>
                     </p>
                     <p>
-                        Blend egg with sugar and flour
+                        Pecahkan telur dan campur dengan gula tepung secukupnya
                     </p>
                 </div>
                 <div class="beat-egg"> </div>
@@ -113,8 +113,8 @@
 
             <section class="scene scene-2">
                 <div class="text">
-                    <p>Task #2</p>
-                    <p>Time to pour the batter in a pan </p>
+                    <p>Langah 2</p>
+                    <p>Tuangkan adonan ke dalam wajan</p>
                 </div>
 
             </section>
@@ -147,8 +147,8 @@
             </div>
             <section class="scene scene-3">
                 <div class="text" style=color:black;">
-                    <p>Task #3</p>
-                    <p>Bake Time! </p>
+                    <p>Langkah 3</p>
+                    <p>Angetkan di oven</p>
                 </div>
             </section>
             <section class="scene scene-4"></section>
@@ -164,14 +164,14 @@
                 </div>
 
                 <div class="scene-4-text">
-                    <p>Task #4</p>
-                    <p>Let's add some Icing!</p>
+                    <p>Langkah 4</p>
+                    <p>Hias kasih lilin dan cream</p>
                 </div>
             </div>
             <section class="scene scene-5">
                 <div class="text" style=color:black;">
 
-                    <p>It's almost ready!!!</p>
+                    <p>Jadiii. Gampang kan ? Ez</p>
 
                 </div>
 
@@ -181,7 +181,7 @@
                     <p id="date"></p>
                 </div>
                 <div>
-                    <p class="hbd hide">TIUP LILIN YANG ASLI NYUSUL YA!</p>
+                    <p class="hbd">TIUP LILINNYA</p>
                 </div>
                 
                 
